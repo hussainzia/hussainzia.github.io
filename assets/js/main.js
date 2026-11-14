@@ -92,10 +92,10 @@ $("#saveContact").addEventListener("click", () => {
         "TITLE:Mechatronics Engineering Student",
         "EMAIL;TYPE=INTERNET:hussainzia1847h@gmail.com",
         "ADR;TYPE=HOME:;;;Karachi;;;Pakistan",
-        "URL:https://hussain1847.github.io/",
-        "X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/hussain-zia",
-        "X-SOCIALPROFILE;TYPE=github:https://github.com/Hussain1847",
-        "NOTE:LinkedIn: linkedin.com/in/hussain-zia | GitHub: github.com/Hussain1847",
+        "URL:https://hussainzia.github.io/",
+        "X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/hussain-zia-24470a265",
+        "X-SOCIALPROFILE;TYPE=github:https://github.com/hussainzia",
+        "NOTE:LinkedIn: linkedin.com/in/hussain-zia-24470a265 | GitHub: github.com/hussainzia",
         "END:VCARD",
     ].join("\r\n");
 

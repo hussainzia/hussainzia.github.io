@@ -6,15 +6,15 @@
 
 **Mechatronics Engineering Student · Embedded Systems · Robotics · Intelligent Automation**
 
-[![Live site](https://img.shields.io/badge/Live%20site-hussain1847.github.io-1e9bff?style=for-the-badge)](https://hussain1847.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hussain--zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-zia)
-[![GitHub](https://img.shields.io/badge/GitHub-Hussain1847-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hussain1847)
+[![Live site](https://img.shields.io/badge/Live%20site-hussainzia.github.io-1e9bff?style=for-the-badge)](https://hussainzia.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussain%20Zia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-zia-24470a265)
+[![GitHub](https://img.shields.io/badge/GitHub-hussainzia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainzia)
 
 </div>
 
 ---
 
-My personal website, hosted on GitHub Pages at **https://hussain1847.github.io/**.
+My personal website, hosted on GitHub Pages at **https://hussainzia.github.io/**.
 
 ## ✨ Features
 
